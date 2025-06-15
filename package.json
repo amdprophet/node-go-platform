@@ -14,7 +14,11 @@
   "bugs": {
     "url": "https://github.com/amdprophet/node-go-platform/issues"
   },
-  "keywords": ["go", "golang", "platform"],
+  "keywords": [
+    "go",
+    "golang",
+    "platform"
+  ],
   "exports": {
     ".": "./dist/index.js"
   },
