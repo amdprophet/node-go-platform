@@ -6,4 +6,4 @@
 [![CodeQL](https://github.com/amdprophet/node-go-platform/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/node-go-platform/actions/workflows/codeql-analysis.yml)
 [![Coverage](./badges/coverage.svg)](./badges/coverage.svg)
 
-Converts NodeJS platform information to Go equivalents
+Converts Node.js platform information to Go equivalents

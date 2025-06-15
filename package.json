@@ -1,6 +1,6 @@
 {
   "name": "go-platform",
-  "description": "Converts NodeJS platform information to Go equivalents",
+  "description": "Converts Node.js platform information to Go equivalents",
   "version": "1.0.0",
   "license": "MIT",
   "author": "",
@@ -14,11 +14,7 @@
   "bugs": {
     "url": "https://github.com/amdprophet/node-go-platform/issues"
   },
-  "keywords": [
-    "go",
-    "golang",
-    "platform"
-  ],
+  "keywords": ["go", "golang", "platform"],
   "exports": {
     ".": "./dist/index.js"
   },

@@ -5,7 +5,7 @@ import { machine, type } from 'os'
  *
  * NOTE: This is not future-proof. It will need to be updated when support for
  * new operating systems are added to Go that do not match the name returned by
- * os.type() in NodeJS.
+ * os.type() in Node.js.
  *
  * @returns A string containing the GOOS of the host system.
  */
@@ -27,7 +27,7 @@ export function os(): string {
  *
  * NOTE: This is not future-proof. It will need to be updated when support for
  * new CPU architectures are added to Go that do not match the name returned by
- * os.machine() in NodeJS.
+ * os.machine() in Node.js.
  *
  * @returns A string containing the GOARCH of the host system.
  */
